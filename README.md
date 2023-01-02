@@ -9,10 +9,6 @@ In this project, we'll predict the winner of football matches in the English Pre
 * Make predictions about who will win a match using scikit-learn.
 * Measure error and improve our predictions.
 
-## Code
-
-You can find the code for this project [here](https://github.com/Regidan-codes/Machine-Learning-project-on-football).
-
 File overview:
 
 * `scraping.ipynb` - a Jupyter notebook that scrapes our data.
