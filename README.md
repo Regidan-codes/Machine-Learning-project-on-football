@@ -27,6 +27,7 @@ To follow this project, please install the following locally:
     * requests
     * BeautifulSoup
     * scikit-learn
+    * LazyPredict
     
 ## Data
 
